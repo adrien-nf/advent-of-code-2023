@@ -1,52 +1,80 @@
-[![AoC](https://badgen.net/badge/AoC/2023/blue)](https://adventofcode.com/2023)
-
 # 🎄 Advent of Code 2023 🎄
+[Advent of Code](https://adventofcode.com/2023)
+
 ## Solutions
 
-```
-          .     .  .      +     .      .          .
-     .       .      .     #       .           .
-        .      .         ###            .      .      .
-      .      .   "#:. .:##"##:. .:#"  .      .
-          .      . "####"###"####"  .
-       .     "#:.    .:#"###"#:.    .:#"  .        .       .
-  .             "#########"#########"        .        .
-        .    "#:.  "####"###"####"  .:#"   .       .
-     .     .  "#######""##"##""#######"                  .
-                ."##"#####"#####"##"           .      .
-    .   "#:. ...  .:##"###"###"##:.  ... .:#"     .
-      .     "#######"##"#####"##"#######"      .     .
-    .    .     "#####""#######""#####"    .      .
-            .     "      000      "    .     .
-       .         .   .   000     .        .       .
-.. .. ..................O000O........................ ...... ...
-```
+<div align="center">
+  
+  <a href="25">![25](https://badgen.net/badge/color/25/yellow?label=)</a>
 
-[![Day](https://badgen.net/badge/01/%E2%98%85%E2%98%85/green)](01)
-[![Day](https://badgen.net/badge/02/%E2%98%86%E2%98%86/green)](02)
-[![Day](https://badgen.net/badge/03/%E2%98%86%E2%98%86/gray)](03)
-[![Day](https://badgen.net/badge/04/%E2%98%86%E2%98%86/gray)](04)
-[![Day](https://badgen.net/badge/05/%E2%98%86%E2%98%86/gray)](05)
-[![Day](https://badgen.net/badge/06/%E2%98%86%E2%98%86/gray)](06)
-[![Day](https://badgen.net/badge/07/%E2%98%86%E2%98%86/gray)](07)
-[![Day](https://badgen.net/badge/08/%E2%98%86%E2%98%86/gray)](08)
-[![Day](https://badgen.net/badge/09/%E2%98%86%E2%98%86/gray)](09)
-[![Day](https://badgen.net/badge/10/%E2%98%86%E2%98%86/gray)](10)
-[![Day](https://badgen.net/badge/11/%E2%98%86%E2%98%86/gray)](11)
-[![Day](https://badgen.net/badge/12/%E2%98%86%E2%98%86/gray)](12)
-[![Day](https://badgen.net/badge/13/%E2%98%86%E2%98%86/gray)](13)
-[![Day](https://badgen.net/badge/14/%E2%98%86%E2%98%86/gray)](14)
-[![Day](https://badgen.net/badge/15/%E2%98%86%E2%98%86/gray)](15)
-[![Day](https://badgen.net/badge/16/%E2%98%86%E2%98%86/gray)](16)
-[![Day](https://badgen.net/badge/17/%E2%98%86%E2%98%86/gray)](17)
-[![Day](https://badgen.net/badge/18/%E2%98%86%E2%98%86/gray)](18)
-[![Day](https://badgen.net/badge/19/%E2%98%86%E2%98%86/gray)](19)
-[![Day](https://badgen.net/badge/20/%E2%98%86%E2%98%86/gray)](20)
-[![Day](https://badgen.net/badge/21/%E2%98%86%E2%98%86/gray)](21)
-[![Day](https://badgen.net/badge/22/%E2%98%86%E2%98%86/gray)](22)
-[![Day](https://badgen.net/badge/23/%E2%98%86%E2%98%86/gray)](23)
-[![Day](https://badgen.net/badge/24/%E2%98%86%E2%98%86/gray)](24)
-[![Day](https://badgen.net/badge/25/%E2%98%86%E2%98%86/gray)](25)
+  ![Tree](https://badgen.net/badge/color/%20%20%20%20%20/green?label=)
+  
+  ![Tree](https://badgen.net/badge/color/%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20/green?label=)
+
+  <a href="21">![21](https://badgen.net/badge/color/21/yellow?label=)</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="22">![22](https://badgen.net/badge/color/22/yellow?label=)</a>
+  ![Tree](https://badgen.net/badge/color/%20%20%20%20%20%20%20%20/green?label=)
+  <a href="23">![23](https://badgen.net/badge/color/23/yellow?label=)</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="24">![24](https://badgen.net/badge/color/24/yellow?label=)</a>
+
+  ![Tree](https://badgen.net/badge/color/%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20/green?label=)
+  ![Tree](https://badgen.net/badge/color/%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20/green?label=)
+
+  <a href="17">![17](https://badgen.net/badge/color/17/yellow?label=)</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="18">![18](https://badgen.net/badge/color/18/yellow?label=)</a>
+  ![Tree](https://badgen.net/badge/color/%20%20%20%20%20%20%20%20%20%20%20%20%20%20/green?label=)
+  ![Tree](https://badgen.net/badge/color/%20%20%20%20%20%20%20%20%20%20%20%20%20%20/green?label=)
+  ![Tree](https://badgen.net/badge/color/%20%20%20%20%20%20%20%20%20%20%20%20%20%20/green?label=)
+  <a href="19">![19](https://badgen.net/badge/color/19/yellow?label=)</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="20">![20](https://badgen.net/badge/color/20/yellow?label=)</a>
+
+  ![Tree](https://badgen.net/badge/color/%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20/green?label=)
+  <a href="15">![15](https://badgen.net/badge/color/15/yellow?label=)</a>
+  ![Tree](https://badgen.net/badge/color/%20%20%20%20%20%20/green?label=)
+  <a href="16">![16](https://badgen.net/badge/color/16/yellow?label=)</a>
+  ![Tree](https://badgen.net/badge/color/%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20/green?label=)
+
+  <a href="10">![10](https://badgen.net/badge/color/10/yellow?label=)</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="11">![11](https://badgen.net/badge/color/11/yellow?label=)</a>
+  ![Tree](https://badgen.net/badge/color/%20%20%20%20%20%20%20%20%20%20%20%20%20%20/green?label=)
+  <a href="12">![12](https://badgen.net/badge/color/12/yellow?label=)</a>
+  ![Tree](https://badgen.net/badge/color/%20%20%20%20%20%20%20%20%20%20%20%20%20%20/green?label=)
+  <a href="13">![13](https://badgen.net/badge/color/13/yellow?label=)</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="14">![14](https://badgen.net/badge/color/14/yellow?label=)</a>
+
+  <a href="06">![06](https://badgen.net/badge/color/06/yellow?label=)</a>
+  ![Tree](https://badgen.net/badge/color/%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20/green?label=)
+  <a href="07">![07](https://badgen.net/badge/color/07/yellow?label=)</a>
+  ![Tree](https://badgen.net/badge/color/%20%20%20%20%20%20%20%20/green?label=)
+  <a href="08">![08](https://badgen.net/badge/color/08/yellow?label=)</a>
+  ![Tree](https://badgen.net/badge/color/%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20/green?label=)
+  <a href="09">![09](https://badgen.net/badge/color/09/yellow?label=)</a>
+
+  
+  <a href="03">![03](https://badgen.net/badge/color/03/yellow?label=)</a>
+  ![Tree](https://badgen.net/badge/color/%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20/green?label=)
+  <a href="04">![04](https://badgen.net/badge/color/04/yellow?label=)</a>
+  ![Tree](https://badgen.net/badge/color/%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20/green?label=)
+  <a href="05">![05](https://badgen.net/badge/color/05/yellow?label=)</a>
+
+  
+  <a href="01">![01](https://badgen.net/badge/color/01/yellow?label=)</a>
+  ![Tree](https://badgen.net/badge/color/%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20/green?label=)
+  <a href="02">![02](https://badgen.net/badge/color/02/yellow?label=)</a>
+  
+  ![Tree](https://badgen.net/badge/color/%20%20%20%20%20%20%20%20%20%20%20%20/orange?label=)
+  
+  ![Tree](https://badgen.net/badge/color/%20%20%20%20%20%20%20%20%20%20%20%20/orange?label=)
+  
+  ![Tree](https://badgen.net/badge/color/%20%20%20%20%20%20%20%20%20%20%20%20/orange?label=)
+
+</div>
 
 ## Installation
 
